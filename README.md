@@ -27,7 +27,7 @@ git commit -v
 git push
 ```
 ### markdown语法
-![markdown语法](.\Markdown.jpg)
+![Markdown.jpg](https://i.loli.net/2019/10/15/TnVlOmc5b3zLHqo.png)
 
 
 ### 我最喜欢的一句话
