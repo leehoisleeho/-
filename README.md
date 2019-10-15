@@ -27,7 +27,8 @@ git commit -v
 git push
 ```
 ### markdown语法
-![markdown语法](.\Markdown语法.jpg)
+![markdown语法](.\Markdown.jpg)
+
 
 ### 我最喜欢的一句话
 > 不要怕，因为怕，你就要输一辈子。
